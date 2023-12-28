@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akhilattaluri
+- 👀 I’m interested in ... frontend developing 
+- 🌱 I’m currently learning ... how to create user interface and web applications 
+- 📫 How to reach me ... akhilattaluri@gmail.com, +1 215-360-1384
